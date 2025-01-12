@@ -1,0 +1,2 @@
+firstname = "ATWIINE"
+print(firstname)
